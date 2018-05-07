@@ -21,8 +21,8 @@ int main() {
 
     sem_init(&sem, 0, 16);
 
-    pthread_create(&producter_t, NULL, (void *)producter_f, NULL);
-    pthread_create(&consumer_t, NULL, (void *)consumer_f, NULL);
+    pthread_create(&producter_t, NULL, producter_f, NULL);
+    pthread_create(&consumer_t, NULL, consumer_f, NULL);
 
     sleep(1);
     running = 0;
