@@ -11547,3 +11547,82 @@
 15 May 2018 20:16:11 CST	GET	200	127.0.0.1	HTTPie/0.9.4	152	/
 15 May 2018 20:16:49 CST	GET	200	127.0.0.1	HTTPie/0.9.4	152	/temp
 15 May 2018 20:17:09 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36	152	/temp
+
+# Server started on 22 May 2018 10:52:41 CST
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	25581	/
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	7707	/css/normalize.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	95563	/css/bootstrap.min.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	23739	/css/font-awesome/css/font-awesome.min.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	25237	/elegant_font/style.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	7787	/css/magnific-popup.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	15728	/css/slider-pro.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	1476	/css/owl.carousel.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	1666	/css/owl.theme.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	68796	/css/animate.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	251942	/images/slider/slider-img-2.jpg
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	4477	/css/owl.transitions.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	30584	/css/style.css
+22 May 2018 10:52:55 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	231773	/images/slider/slider-img-3.jpg
+22 May 2018 10:52:56 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	339594	/images/features.png
+22 May 2018 10:52:57 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	17287	/images/logo.png
+22 May 2018 10:52:57 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	263218	/images/slider/slider-img-1.jpg
+22 May 2018 10:52:57 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	84320	/js/jquery-1.11.3.min.js
+22 May 2018 10:52:57 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	44826	/js/bootstrap.min.js
+22 May 2018 10:52:57 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	15504	/js/modernizr.min.js
+22 May 2018 10:52:58 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	8102	/js/jquery.easing.1.3.js
+22 May 2018 10:52:58 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	2035	/js/jquery.scrollUp.min.js
+22 May 2018 10:52:58 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	9111	/js/jquery.easypiechart.js
+22 May 2018 10:52:58 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	39978	/js/isotope.pkgd.min.js
+22 May 2018 10:52:58 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	3240	/js/jquery.fitvids.js
+22 May 2018 10:52:58 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	12598	/js/jquery.stellar.min.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	8790	/js/jquery.waypoints.min.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	8182	/js/wow.min.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	5140	/js/jquery.nav.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	6950	/js/imagesloaded.pkgd.min.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	3902	/js/smooth-scroll.min.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	92781	/js/jquery.sliderPro.min.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	21144	/js/jquery.magnific-popup.min.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	23891	/js/owl.carousel.min.js
+22 May 2018 10:52:59 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/jqBootstrapValidation.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	352661	/images/img01.png
+22 May 2018 10:52:59 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/contact_me.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	4310	/js/custom.js
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	351134	/images/img02.png
+22 May 2018 10:52:59 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	281581	/images/img03.png
+22 May 2018 10:53:00 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	297092	/images/img04.png
+22 May 2018 10:53:00 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	308998	/images/img05.png
+22 May 2018 10:53:01 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/jqBootstrapValidation.js
+22 May 2018 10:53:24 CST	GET	404	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	/css/bootstrap.min.css.map
+22 May 2018 10:54:39 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	25581	/
+22 May 2018 10:54:39 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	352661	/images/img01.png
+22 May 2018 10:54:39 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	351134	/images/img02.png
+22 May 2018 10:54:39 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	308998	/images/img05.png
+22 May 2018 10:54:39 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	281581	/images/img03.png
+22 May 2018 10:54:39 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	297092	/images/img04.png
+22 May 2018 10:54:42 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	327524	/images/img06.png
+22 May 2018 10:54:42 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/contact_me.js
+22 May 2018 10:54:42 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/jqBootstrapValidation.js
+22 May 2018 10:54:42 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	92613	/images/img-portfolio/portfolio4.jpg
+22 May 2018 10:54:42 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	135089	/images/img-portfolio/portfolio1.jpg
+22 May 2018 10:54:42 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	108423	/images/img-portfolio/portfolio3.jpg
+22 May 2018 10:54:42 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	111034	/images/img-portfolio/portfolio2.jpg
+22 May 2018 10:54:44 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	68956	/images/img-portfolio/portfolio5.jpg
+22 May 2018 10:54:44 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	127217	/images/img-portfolio/portfolio6.jpg
+22 May 2018 10:54:44 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	33608	/images/img-teams/team1.jpg
+22 May 2018 10:54:44 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	46753	/images/img-teams/team2.jpg
+22 May 2018 10:54:44 CST	GET	200	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	45679	/images/img-teams/team3.jpg
+22 May 2018 10:54:44 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/favicon.ico
+22 May 2018 10:55:28 CST	GET	404	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	/css/bootstrap.min.css.map
+22 May 2018 10:55:40 CST	GET	404	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	/css/bootstrap.min.css.map
+22 May 2018 10:56:04 CST	GET	404	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	/css/bootstrap.min.css.map
+22 May 2018 10:56:21 CST	GET	200	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	63664	/elegant_font/fonts/ElegantIcons.woff
+22 May 2018 10:56:27 CST	GET	200	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	63664	/elegant_font/fonts/ElegantIcons.woff
+22 May 2018 10:56:35 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/jqBootstrapValidation.js
+22 May 2018 10:56:37 CST	GET	404	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	/css/bootstrap.min.css.map
+22 May 2018 10:56:52 CST	GET	404	127.0.0.1	Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Mobile Safari/537.36	/css/bootstrap.min.css.map
+
+# Server started on 22 May 2018 11:12:42 CST
+22 May 2018 11:12:53 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/jqBootstrapValidation.js
+22 May 2018 11:12:53 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/contact_me.js
+22 May 2018 11:12:53 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/jqBootstrapValidation.js
+22 May 2018 11:12:53 CST	GET	404	127.0.0.1	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36	/contact/contact_me.js

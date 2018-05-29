@@ -1,7 +1,7 @@
 
 OBJS = tcp_process.o tcp_client.o tcp_server.o
 CC = gcc
-CFLAGS = -D__FOR_FILE
+#CFLAGS = -D__FOR_FILE
 TARGET = tcp_client tcp_server
 
 all:tcp_client tcp_server
